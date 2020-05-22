@@ -1,0 +1,6 @@
+/* BMS, the BitMap for Sieve projects */ 
+/* Produced pixel format is RGB 555 */ 
+/* Freely provided by IN4MAYSUN, Inc. */ 
+
+/* Insert draw_bms( x, y, black_win); <- in your code */ 
+
