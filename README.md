@@ -12,7 +12,7 @@
 >  - Builder : GNU-GCC
 >  - Virtual Linux for Build: Cygwin
 >  - Editor(IDE) : DEV C++
->  - Tools for DebugL Tera Term
+>  - Tools for Debug : Tera Term
 >  - Image Convertor : 24bit BMP to 16Bit BMS
 
 
