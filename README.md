@@ -1,5 +1,4 @@
 # Embeded_Ohmok
-<hr/>
 
 ### Team
 > 최종윤, 한민지
@@ -10,9 +9,11 @@
 ### Tech 
 >  - Embeded-C
 >  - Cross Compiler
->  - LCD Touch Screen
+>  - LCD 
+>  - Touch Screen
 >  - Timer
->  - Interrupt(Touch_ISR, Timer0_ISR)
+>  - Interrupt(Touch_ISR, Timer_ISR)
+>  - Buzzer
 
 ### Description
 > S3C2450 보드에서 오목 게임을 구현
